@@ -4,10 +4,10 @@
 - 🔭 fint me on  [linkedIn Profile](https://www.linkedin.com/in/ayman-nawwar-573606246/r)  
   
 
-- 🌱 I’m currently deep dive into Angular v15  
+- 🌱 I’m currently deep dive into react  latest V 
   
 
-- ❓ Ask me about anything related to MEAN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 <br/>  
