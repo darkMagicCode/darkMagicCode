@@ -1,4 +1,4 @@
-### <div align="center">I'm ayman nawwar, a full-time Frontend freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm ayman nawwar, a full-time Fullstack developer 👨‍💻 working since 2020 🚀</div>  
   
 
 - 🔭 fint me on  [linkedIn Profile](https://www.linkedin.com/in/ayman-nawwar-573606246/r)  
