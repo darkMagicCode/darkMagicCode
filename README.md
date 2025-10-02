@@ -2,88 +2,87 @@
 
 <div align="center">
 
-# 👋 Hey, I'm **Ayman Nawar**  
-🚀 Senior Full-Stack Engineer · Full-Stack Architect · 5+ Years
+# 🌌 Hey, I'm **Ayman Nawar**  
+💻 Senior Full-Stack Engineer · Architect · SaaS Builder  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-nawwar-573606246)
-[![GitHub](https://img.shields.io/badge/GitHub-darkMagicCode-181717?logo=github)](https://github.com/darkMagicCode)
-[![Email](https://img.shields.io/badge/Email-aymannawwar22%40gmail.com-red)](mailto:aymannawwar22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-nawwar-573606246)  
+[![GitHub](https://img.shields.io/badge/GitHub-darkMagicCode-181717?logo=github)](https://github.com/darkMagicCode)  
+[![Email](https://img.shields.io/badge/Email-aymannawwar22%40gmail.com-red?logo=gmail&logoColor=white)](mailto:aymannawwar22@gmail.com)  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=darkMagicCode&style=flat-square)
 
-</div>
+---
+
+### 🚀 About Me
+I’m a **Senior Full-Stack Software Engineer** with **5+ years** of experience building  
+**enterprise systems (ERP, CRM, POS, HR, fintech)**.  
+
+- 🏗️ Currently architecting a **multi-tenant unified platform** @ Amjaad Tech  
+- 🌍 Delivered enterprise **HR & CRM systems** @ Huawei (2023–2025)  
+- 🛠️ Creator of **Mapatak Marketplace** (location-based commerce)  
+- 🤖 Building **Void AI Social** (automation SaaS for content & affiliate links)  
+
+💡 Passionate about **scalable architecture, developer experience, clean code, and mentoring**.
 
 ---
 
-## 🚀 About Me
-I’m a **Senior Full-Stack Software Engineer** with **5+ years** building **enterprise systems** (ERP, CRM, POS, HR, fintech).  
-I specialize in **Next.js 15 + NestJS + AWS**, designing **scalable, multi-tenant platforms** and leading teams through **monolith → microservices** transitions.
+### 🧩 Featured Projects
 
-💡 I care about **performance, clean architecture, developer experience, and mentoring teams**.  
-Currently:
+🔹 **POS Dashboard (Foodics-like)** — multi-branch, inventory & orders, 10k+ txns/month  
+👉 [Live Demo](https://dot-pos-puce.vercel.app/) | MERN, TS, React Query, FCM  
 
-- ⚡ Architecting a **Unified Multi-Tenant Platform** @ Amjaad Tech  
-- 🌍 Building enterprise HR & CRM systems @ Huawei (2023-2025)  
-- 🛠️ Side projects: **Mapatak Marketplace** & **Void AI Social SaaS**
+🔹 **Dot HR System** — payroll automation & geolocation attendance  
+👉 [Live Demo](https://dot-hr.vercel.app/) | MERN, TS, WebSocket, React Query  
 
----
+🔹 **Zood Lite E-Invoice** — seamless e-invoice integration with POS systems  
+👉 [Live Demo](https://zood-lite-e-invoice.vercel.app/) | MERN, Shadcn UI, Tailwind  
 
-## 🧩 Featured Projects
-- **POS Dashboard (Foodics-like)** → multi-branch, inventory, 10k+ txns/month  
-  _Stack:_ MERN, TS, React Query, FCM  
-  [Live Demo](https://dot-pos-puce.vercel.app/)
-
-- **Dot HR Management System** → payroll automation, geolocation attendance  
-  _Stack:_ MERN, TS, WebSocket, React Query  
-  [Live Demo](https://dot-hr.vercel.app/)
-
-- **Zood Lite E-Invoice** → E-invoice integration for POS systems  
-  _Stack:_ MERN, TS, Shadcn UI, Tailwind CSS  
-  [Live Demo](https://zood-lite-e-invoice.vercel.app/)
-
-- **SASA Real Estate** → full-stack platform with maps & filters  
-  _Stack:_ MERN, Tailwind, Google APIs  
-  [Live Demo](https://sass-realestate.vercel.app/)
+🔹 **SASA Real Estate** — property search with maps & filters  
+👉 [Live Demo](https://sass-realestate.vercel.app/) | MERN, Google APIs, Tailwind  
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-**Frontend**  
-Next.js (App Router, RSC), React, TypeScript, Tailwind, Shadcn UI, React Query, SEO/SSR
+**Frontend:**  
+⚛️ React · Next.js (App Router, RSC) · TypeScript · Tailwind · Shadcn UI · React Query · SEO/SSR  
 
-**Backend**  
-Node.js, NestJS, Express, REST/GraphQL, BullMQ, Microservices
+**Backend:**  
+🟢 Node.js · NestJS · Express · REST/GraphQL · BullMQ · Microservices  
 
-**Databases**  
-MongoDB, PostgreSQL/MySQL, Redis, Firebase
+**Databases:**  
+🍃 MongoDB · PostgreSQL · MySQL · Redis · Firebase  
 
-**Cloud & DevOps**  
-AWS (EC2, S3, VPC), Docker, Terraform, CI/CD, Multi-tenant systems
+**Cloud & DevOps:**  
+☁️ AWS (EC2, S3, VPC) · Docker · Terraform · CI/CD · Multi-tenant systems  
 
-**Quality**  
-Jest, Vitest, Playwright, ESLint, Prettier
+**Testing & Quality:**  
+✅ Jest · Vitest · Playwright · ESLint · Prettier  
 
-**Design & PM**  
-Figma, Adobe XD, Illustrator, Agile/Scrum, Jira/Notion
+**Design & PM:**  
+🎨 Figma · Adobe XD/Illustrator · Agile/Scrum · Jira/Notion  
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Snapshot
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkMagicCode&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkMagicCode&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkMagicCode&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkMagicCode&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 📬 Connect
+### 📬 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayman-nawwar-573606246)  
 - 💻 [GitHub](https://github.com/darkMagicCode)  
 - 📧 [Email](mailto:aymannawwar22@gmail.com)  
 
 ---
 
-> ✨ *“Build boring, reliable foundations — ship delightful experiences on top.”*
+<div align="center">
 
+✨ _“Build boring, reliable foundations — ship delightful experiences on top.”_ ✨
+
+</div>
