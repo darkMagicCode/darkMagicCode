@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-I’m a **Senior Full-Stack Engineer** with **5+ years** building enterprise apps (ERP, CRM, POS, HR, fintech).  
+I’m a **Senior Full-Stack Engineer** with **7+ years** building enterprise apps (ERP, CRM, POS, HR, fintech).  
 I specialize in **Next.js + NestJS + AWS**, architecting **multi-tenant platforms** and guiding teams through **monolith → microservices** transitions.  
 
 - 🏗️ Senior Full-Stack Engineer @ Amjaad Tech  
