@@ -1,65 +1,40 @@
 <div align="center">
 
-
 # Ayman Nawar
 
+**Senior Frontend Engineer & Team Lead | React, Next.js, TypeScript**
 
-**Senior Full Stack Engineer · AI Engineer · Distributed Systems**
-
-
-6+ years building production SaaS, AI-powered products, Shopify applications, and distributed systems.
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ayman-nawwar/) 
-[![Email](https://img.shields.io/badge/Email-aymannawwar22%40gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:aymannawwar22@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-darkMagicCode-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/darkMagicCode)
-
+[LinkedIn](https://www.linkedin.com/in/ayman-nawar/) · aymannawwar22@gmail.com
 
 </div>
 
-
----
-
-
 ## About
 
+Senior frontend engineer with nearly 7 years of software development, building
+React, Next.js, and TypeScript products across ERP, HR, POS, FinTech, e-commerce,
+and booking platforms. Strengths in performance optimization, SEO, accessibility,
+and micro-frontends.
 
-Senior Full Stack Engineer with 6+ years delivering production SaaS, e-commerce, FinTech, ERP/CRM, and AI systems across Egypt and the GCC. I own products end-to-end — React/Next.js frontends, Node.js/NestJS services, PostgreSQL/MongoDB data layers, distributed microservices, cloud infrastructure, and AI/LLM integrations.
+## Highlights
 
-
-Currently at **Fincart** building Shopify applications, AI-powered CX automation, and distributed backend systems.
-
-
-Domain experience: SaaS · E-commerce · FinTech · ERP/CRM · Automotive · Real Estate · AI Automation
-
-
----
-
-
-## Currently Building
-
-
-**[Fincart](https://github.com/darkMagicCode)**  ·  Senior Full Stack Engineer  ·  *Jan 2026 – Present*
-> Shopify applications for offers, discounts, cart recovery, and revenue automation. AI-powered CX platform with NestJS microservices, PostgreSQL, and LLM/agent workflows.
-
-
-**Tawasul.cx**  ·  AI-Powered Customer Experience Platform
-> Multi-agent CX system for e-commerce support, sales, complaints, and operational automation. Built on NestJS, PostgreSQL, RAG pipelines, and event-driven architecture.
-
-
-**AI Brand DNA**  ·  LLM Marketing Intelligence System
-> Brand identity and marketing intelligence using RAG, embeddings, vector search, and multi-agent orchestration.
-
-
-**AI Lead Generation**  ·  Automated Outreach System
-> Lead scraping, enrichment, qualification, and outreach powered by LLMs, RAG, and vector search. Reduced manual prospecting by 80%+ in initial tests.
-
-
----
-
+- Raised Lighthouse accessibility from ~70 to 95
+- Led a POS serving 50+ restaurants at 10k+ monthly transactions
+- Delivered HR features contributing to ~$1M in savings at Huawei
+- Implemented micro-frontends with centralized SSO and SSR-focused SEO
+- Built Revenew's Shopify app and merchant portal at Fincart
 
 ## Stack
 
+**Core:** React, Next.js, TypeScript, JavaScript, HTML, CSS
 
-**Full Stack**
-  TypeScript · JavaScript · Python · React · Next.js · Node.js · NestJS
+**UI:** Tailwind CSS, shadcn/ui, Material UI, Storybook
+
+**State and data:** Redux Toolkit, Zustand, TanStack Query, REST APIs, GraphQL
+
+**Quality:** Jest, React Testing Library, Playwright, Cypress, Core Web Vitals, WCAG
+
+## Selected Repositories
+
+- [fincalc](https://github.com/darkMagicCode/fincalc): shipping calculator in React, TypeScript, and TanStack Query
+- [Quantum](https://github.com/darkMagicCode/Quantum): user management dashboard in React, Redux Toolkit, and Material UI
+- [alhazm](https://github.com/darkMagicCode/alhazm): SEO-focused car rental frontend in Next.js and Tailwind CSS
