@@ -32,9 +32,3 @@ and micro-frontends.
 **State and data:** Redux Toolkit, Zustand, TanStack Query, REST APIs, GraphQL
 
 **Quality:** Jest, React Testing Library, Playwright, Cypress, Core Web Vitals, WCAG
-
-## Selected Repositories
-
-- [fincalc](https://github.com/darkMagicCode/fincalc): shipping calculator in React, TypeScript, and TanStack Query
-- [Quantum](https://github.com/darkMagicCode/Quantum): user management dashboard in React, Redux Toolkit, and Material UI
-- [alhazm](https://github.com/darkMagicCode/alhazm): SEO-focused car rental frontend in Next.js and Tailwind CSS
