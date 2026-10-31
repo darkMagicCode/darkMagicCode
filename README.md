@@ -72,3 +72,7 @@ My strengths are **performance optimization**, **SEO**, **accessibility**, and *
 | **Huawei** | 2022 – 2023 | HR platform features and a Tailwind CSS design system |
 | **Dot** | 2021 – 2022 | Multi-branch POS and FinTech dashboards |
 | **Huawei** | 2020 – 2021 | Responsive enterprise interfaces |
+
+## Volunteering
+
+**Instructor and Mentor**, NASA Space Apps Challenge | Sep 2025 – Present
