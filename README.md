@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Ayman Nawar, Senior Frontend Engineer and Team Lead" width="100%">
+<img src="./assets/banner.svg" alt="Ayman Nawar, Senior Full-Stack Engineer" width="100%">
 
 <br><br>
 
@@ -12,23 +12,56 @@
 
 ## About
 
-I'm a senior frontend engineer with nearly 7 years of software development, building React, Next.js, and TypeScript products across ERP, HR, POS, FinTech, e-commerce, and booking platforms.
+I'm a senior full-stack engineer with 6+ years building SaaS, e-commerce, FinTech, POS, ERP, CRM, HR, travel and marketplace platforms.
 
-My strengths are **performance optimization**, **SEO**, **accessibility**, and **micro-frontends**. I also have 13 months of experience as a Frontend Team Lead.
+I own backend services, data models and React/Next.js interfaces through deployment and production support, and I build applied AI systems with Python/FastAPI, RAG and LLM agents.
 
 ## Impact
 
 <div align="center">
 
-| ~70 → 95 | 50+ | 10k+ | ~$1M |
+| 450 | ~70 | 10k+ | ~$1M |
 |:--:|:--:|:--:|:--:|
-| Lighthouse accessibility score | Restaurants on a POS I led | Monthly POS transactions | HR savings my features contributed to at Huawei |
+| Merchants on Revenew, a Shopify app I build | Businesses served by Rahala | Monthly POS transactions | HR cost savings at Huawei |
 
 </div>
 
 ## Tech Stack
 
-**Core**
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-4A5060?style=flat-square)
+
+**Cloud and DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Applied AI**
+
+![RAG](https://img.shields.io/badge/RAG-4A5060?style=flat-square)
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-4A5060?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector_Search-4A5060?style=flat-square)
+
+**Frontend and Languages**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -65,14 +98,14 @@ My strengths are **performance optimization**, **SEO**, **accessibility**, and *
 
 | Company | Period | Focus |
 |:--|:--|:--|
-| **Fincart** | 2026 – Present | Shopify app and merchant portal for Revenew |
-| **Rahala** | 2026 – Present | Bilingual, mobile-first hotel and flight booking |
-| **Digital Car** | 2024 – 2025 | Frontend team leadership, architecture, and accessibility |
-| **Amjaad Technology** | 2023 – 2024 | Next.js migration and micro-frontends with SSO |
-| **Huawei** | 2022 – 2023 | HR platform features and a Tailwind CSS design system |
-| **Dot** | 2021 – 2022 | Multi-branch POS and FinTech dashboards |
-| **Huawei** | 2020 – 2021 | Responsive enterprise interfaces |
+| **Fincart** | 2026 – Present | Revenew Shopify app, Merchant Portal and an AI customer service solution |
+| **Rahala** | 2026 – Present | Hotel and flight booking platform, built end to end |
+| **Digital Car** | 2024 – 2025 | Car marketplace, pricing engine and scraping engine |
+| **Amjaad Technology** | 2023 – 2024 | Smart meter platform migration to Next.js, community app and payments |
+| **Huawei** | 2022 – 2023 | Regional HR system and an internal Tailwind CSS design system |
+| **Dot** | 2021 – 2022 | Restaurant POS and an HR system with real-time attendance |
+| **Huawei** | 2020 – 2021 | React applications and Node.js and Python REST services |
 
 ## Volunteering
 
-**Instructor and Mentor**, NASA Space Apps Challenge | Sep 2025 – Present
+**Instructor and Mentor**, NASA Space Apps Challenge | 2023 – Present
