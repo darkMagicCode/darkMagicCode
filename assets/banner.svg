@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Ayman Nawar, Senior Frontend Engineer and Team Lead">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Ayman Nawar, Senior Full-Stack Engineer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1626"/>
@@ -23,8 +23,8 @@
 
     <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
       <text x="72" y="130" font-size="68" font-weight="800" fill="#ffffff" letter-spacing="-1">Ayman Nawar</text>
-      <text x="74" y="182" font-size="29" font-weight="600" fill="#dce8f8">Senior Frontend Engineer &amp; Team Lead</text>
-      <text x="74" y="232" font-size="23" font-weight="500" fill="#8ab6f0">React  ·  Next.js  ·  TypeScript</text>
+      <text x="74" y="182" font-size="29" font-weight="600" fill="#dce8f8">Senior Full-Stack Engineer</text>
+      <text x="74" y="232" font-size="23" font-weight="500" fill="#8ab6f0">React  ·  Next.js  ·  Node.js  ·  NestJS  ·  FastAPI</text>
     </g>
   </g>
 </svg>
