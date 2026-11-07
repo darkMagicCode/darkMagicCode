@@ -22,9 +22,8 @@
     </g>
 
     <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-      <text x="72" y="130" font-size="68" font-weight="800" fill="#ffffff" letter-spacing="-1">Ayman Nawar</text>
-      <text x="74" y="182" font-size="29" font-weight="600" fill="#dce8f8">Senior Full-Stack Engineer</text>
-      <text x="74" y="232" font-size="23" font-weight="500" fill="#8ab6f0">React  ·  Next.js  ·  Node.js  ·  NestJS  ·  FastAPI</text>
+      <text x="72" y="152" font-size="68" font-weight="800" fill="#ffffff" letter-spacing="-1">Ayman Nawar</text>
+      <text x="74" y="204" font-size="29" font-weight="600" fill="#dce8f8">Senior Full-Stack Engineer</text>
     </g>
   </g>
 </svg>
