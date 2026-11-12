@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Ayman Nawar, Senior Full-Stack Engineer" width="100%">
+<img src="./assets/banner.svg" alt="Ayman Nawar, Senior Frontend Engineer &amp; Team Lead" width="100%">
 
 <br><br>
 
@@ -12,16 +12,16 @@
 
 ## About
 
-I'm a senior full-stack engineer with 6+ years building SaaS, e-commerce, FinTech, POS, ERP, CRM, HR, travel and marketplace platforms.
+I'm a senior frontend engineer with 7 years building React.js, Next.js and TypeScript products across FinTech, e-commerce, HR, POS and booking.
 
-I own backend services, data models and user interfaces through deployment and production support, and I build applied AI systems.
+I lead frontend architecture, design systems and micro-frontends, with a focus on performance, SEO and accessibility.
 
 ## Career
 
 | Company | Period | Focus |
 |:--|:--|:--|
 | **Fincart** | 2026 – Present | Revenew Shopify app, Merchant Portal and an AI customer service solution |
-| **Rahala** | 2026 – Present | Hotel and flight booking platform, built end to end |
+| **Rahala** | 2026 – Present | Next.js booking frontend in Arabic and English |
 | **Digital Car** | 2024 – 2025 | Car marketplace, pricing engine and scraping engine |
 | **Amjaad Technology** | 2023 – 2024 | Smart meter platform migration, community app and payments |
 | **Huawei** | 2021 – 2023 | Regional HR system and an internal design system |
@@ -29,4 +29,4 @@ I own backend services, data models and user interfaces through deployment and p
 
 ## Volunteering
 
-**Instructor and Mentor**, NASA Space Apps Challenge | 2023 – Present
+**Instructor and Mentor**, NASA Space Apps Challenge | 2025 – Present
