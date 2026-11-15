@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Ayman Nawar, Senior Frontend Engineer &amp; Team Lead" width="100%">
+<img src="./assets/banner.svg" alt="Ayman Nawar, Full Stack &amp; AI Engineer" width="100%">
 
 <br><br>
 
@@ -12,21 +12,22 @@
 
 ## About
 
-I'm a senior frontend engineer with 7 years building React.js, Next.js and TypeScript products across FinTech, e-commerce, HR, POS and booking.
+I'm a Full Stack & AI Engineer with 7 years building SaaS, e-commerce, FinTech, booking and enterprise products across Egypt and the GCC.
 
-I lead frontend architecture, design systems and micro-frontends, with a focus on performance, SEO and accessibility.
+I build Node.js/NestJS services, React.js/Next.js interfaces and LLM features (RAG, AI agents) end to end.
 
 ## Career
 
 | Company | Period | Focus |
 |:--|:--|:--|
-| **Fincart** | 2026 – Present | Revenew Shopify app, Merchant Portal and an AI customer service solution |
-| **Rahala** | 2026 – Present | Next.js booking frontend in Arabic and English |
-| **Digital Car** | 2024 – 2025 | Car marketplace, pricing engine and scraping engine |
-| **Amjaad Technology** | 2023 – 2024 | Smart meter platform migration, community app and payments |
-| **Huawei** | 2021 – 2023 | Regional HR system and an internal design system |
-| **Dot** | 2020 – 2021 | Restaurant POS and an HR system with real-time attendance |
+| **Fincart** | 2026 – Present | Revenew Shopify app and merchant portal, and an AI customer service platform |
+| **Rahala** | 2026 – Present | Hotel and flight booking platform with Next.js, NestJS, PostgreSQL and Elasticsearch |
+| **Amjaad Technology** | 2025 | Smart meter platform modernization, community app and payments |
+| **Huawei** | 2024 – 2025 | Regional HR platform with workflow automation and an internal design system |
+| **Digital Car** | 2023 – 2024 | Car marketplace, pricing engine and scraping engine |
+| **Dot** | 2022 – 2023 | Restaurant POS and an HR system with real-time attendance |
+| **Huawei** | 2020 – 2022 | Full stack and AI/ML product work |
 
 ## Volunteering
 
-**Instructor and Mentor**, NASA Space Apps Challenge | 2025 – Present
+**Instructor and Mentor**, NASA Space Apps Challenge | 2023 – Present
