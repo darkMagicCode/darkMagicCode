@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Ayman Nawar, Full Stack &amp; AI Engineer" width="100%">
+<img src="./assets/banner.svg" alt="Ayman Nawar, Senior Full Stack &amp; AI Engineer" width="100%">
 
 <br><br>
 
@@ -12,7 +12,7 @@
 
 ## About
 
-I'm a Full Stack & AI Engineer with 7 years building SaaS, e-commerce, FinTech, booking and enterprise products across Egypt and the GCC.
+I'm a Senior Full Stack & AI Engineer with 7 years building SaaS, e-commerce, FinTech, booking and enterprise products across Egypt and the GCC.
 
 I build Node.js/NestJS services, React.js/Next.js interfaces and LLM features (RAG, AI agents) end to end.
 
