@@ -25,8 +25,8 @@ I build Node.js/NestJS services, React.js/Next.js interfaces and LLM features (R
 | **Amjaad Technology** | 2025 | Smart meter platform modernization, community app and payments |
 | **Digital Car** | 2024 – 2025 | Car marketplace, pricing engine and scraping engine |
 | **Huawei** | 2023 – 2024 | Regional HR platform with workflow automation and an internal design system |
-| **Dot** | 2022 – 2023 | Restaurant POS and an HR system with real-time attendance |
-| **Huawei** | 2020 – 2022 | Full stack and AI/ML product work |
+| **Dot** | 2021 – 2023 | Restaurant POS and an HR system with real-time attendance |
+| **Huawei** | 2020 – 2021 | Full stack and AI/ML product work |
 
 ## Volunteering
 
