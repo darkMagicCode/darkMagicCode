@@ -14,7 +14,7 @@
 
 I'm a Senior Full Stack & AI Engineer with 7 years building SaaS, e-commerce, FinTech, booking and enterprise products across Egypt and the GCC.
 
-I build Node.js/NestJS services, React.js/Next.js interfaces and LLM features (RAG, AI agents) end to end.
+I build Node.js/NestJS services, React.js/Next.js interfaces and LLM features end to end: RAG pipelines, LangChain/LangGraph agents, evals and guardrails.
 
 ## Career
 
