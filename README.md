@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayman--nawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-nawar/)
 [![Email](https://img.shields.io/badge/Email-aymannawwar22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymannawwar22@gmail.com)
-![Location](https://img.shields.io/badge/Giza%2C_Egypt-Remote_%26_On--site-1F4E8C?style=for-the-badge)
+![Location](https://img.shields.io/badge/Cairo%2C_Egypt-Remote_%26_On--site-1F4E8C?style=for-the-badge)
 
 </div>
 
